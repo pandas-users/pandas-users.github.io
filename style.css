@@ -242,7 +242,6 @@ h4{
     border-top:0;
     border-bottom:0;
     padding-top:0;
-    padding-bottom:45px;
     box-shadow:none;
 }
 .bodyContainer .mcnTextContent,.bodyContainer .mcnTextContent p,.mcnTemplatePageBanner{
@@ -492,4 +491,13 @@ h4{
     line-height:150% !important;
 }
 
+}
+
+.icon {
+    color:gray;
+    font-size: 23px;
+}
+.icon:hover{
+    color:black;
+    font-size: 22px;
 }
